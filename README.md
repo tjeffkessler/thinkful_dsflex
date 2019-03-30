@@ -38,7 +38,7 @@ Credit is due to:
     - Katrina Johnson 
     - Will Morgan 
     - Cindy Barrientos 
-    - ZDW 
+    - Zach White 
     - Ryan 
     - Eve Ben Ezra
     - Eric Folsom
