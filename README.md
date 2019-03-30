@@ -40,7 +40,8 @@ Credit is due to:
     - Cindy Barrientos 
     - ZDW 
     - Ryan 
-    - Eve B 
+    - Eve Ben Ezra
+    - Eric Folsom
     - Melia Miller 
 - and of course [Stack Overflow](https://stackoverflow.com/).
 
